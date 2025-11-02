@@ -1,7 +1,6 @@
 # File Encryption with Go
 
 A simple command-line file encryption tool built in Go that provides secure AES-256-GCM encryption for your files.
-
 ## Features
 
 - **AES-256-GCM Encryption**: Uses industry-standard encryption with authenticated encryption
